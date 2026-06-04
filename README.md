@@ -7,7 +7,7 @@ Hasta · randevu · diş şeması (odontogram) · tedavi · ödeme + stok, diş 
 
 ## Ücretsiz deneme — Windows kurulumu
 
-➡️ [**Klinik-Kurulum-0.2.7.exe indir**](https://github.com/erdincaydin7888/klinik-demo/releases/latest)
+➡️ [**Klinik-Kurulum-0.3.0.exe indir**](https://github.com/erdincaydin7888/klinik-demo/releases/latest)
 
 1. İndir ve çift tıkla. "Windows korudu" çıkarsa: **Ek bilgi → Yine de çalıştır** (imzasız uygulama, zararsız).
 2. İlk açılışta ekranda bir **Makine Kodu** görürsünüz.
