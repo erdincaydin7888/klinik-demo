@@ -3,12 +3,14 @@
 Diş klinikleri için sade, **tek kurulumlu** hasta takip programı.
 Aynı anda bilgisayardan ve telefondan kullanılır; **aylık abonelik yok**, veriler kliniğinizde kalır.
 
+Hasta · randevu · diş şeması (odontogram) · tedavi · ödeme + stok, diş deposu ve laboratuvar takibi — hepsi tek programda.
+
 ## Ücretsiz deneme — Windows kurulumu
 
-➡️ [**Klinik-Kurulum-0.2.5.exe indir**](https://github.com/erdincaydin7888/klinik-demo/releases/download/v0.2.5/Klinik-Kurulum-0.2.5.exe)
+➡️ [**Klinik-Kurulum-0.2.7.exe indir**](https://github.com/erdincaydin7888/klinik-demo/releases/latest)
 
-1. İndir ve çift tıkla.
-2. "Windows bu uygulamayı korudu" çıkarsa: **Ek bilgi → Yine de çalıştır** (imzasız uygulama, zararsız).
-3. İlk açılışta bir PIN belirleyin. Aynı Wi-Fi'daki telefon/tabletten de bağlanabilirsiniz.
+1. İndir ve çift tıkla. "Windows korudu" çıkarsa: **Ek bilgi → Yine de çalıştır** (imzasız uygulama, zararsız).
+2. İlk açılışta ekranda bir **Makine Kodu** görürsünüz.
+3. **Ücretsiz deneme için** bu kodu bize iletin; size bilgisayarınıza özel anahtarı gönderelim, programı açın.
 
-Hasta · randevu · diş şeması · tedavi · ödeme + stok, diş deposu ve laboratuvar takibi — hepsi tek programda.
+İletişim: _[telefon / e-posta]_
